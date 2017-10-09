@@ -17,4 +17,4 @@ or you could get the jar file from http://pan.baidu.com/s/1c1DW95A directly
 
 3) Launch the process<br>
   java -jar autologin.client-1.0-SNAPSHOT.jar for login once<br>
-  java -jar autologin.client-1.0-SNAPSHOT.jar -a for login automatically every day at 4 am.
+  java -jar autologin.client-1.0-SNAPSHOT.jar -a for login automatically everyday at 4 am.
